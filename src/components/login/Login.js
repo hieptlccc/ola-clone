@@ -70,12 +70,8 @@ const Login = ({ toggleModal }) => {
   return (
     <div className="login__container">
       <div className="login__welcome">
-        <p>
-          Build{" "}
-          <span style={{ color: "#D7DF22", fontWeight: "bold" }}>
-            Ober Clone
-          </span>{" "}
-          with React
+        <p style={{ color: "#2c3e50", fontWeight: "bold" }}>
+          Build <span style={{ color: "#D7DF22" }}>Ober Clone</span> with React
         </p>
       </div>
       <div className="login__form-container">

@@ -99,7 +99,7 @@ input {
 
 .login__forgot-password {
   border-bottom: 1px solid #e5e7eb;
-  color: #d7df22;
+  color: #2c3e50;
   display: block;
   font-size: 0.9375rem;
   font-weight: bold;
@@ -112,7 +112,7 @@ input {
 }
 
 .login__signup {
-  color: #d7df22;
+  color: #2c3e50;
   display: block;
   font-size: 0.9375rem;
   font-weight: bold;
