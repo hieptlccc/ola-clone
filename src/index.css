@@ -365,7 +365,7 @@ input {
 }
 
 .header {
-  background: #d7df22;
+  background: #2c3e50;
   display: grid;
   grid-template-columns: repeat(2, 1fr);
   height: 3.5rem;
@@ -408,6 +408,7 @@ input {
   align-items: center;
   color: #fff;
   display: grid;
+  font-weight: bold;
   justify-content: right;
   padding-right: 0.75rem;
 }
@@ -437,7 +438,7 @@ input {
 
 .address__title {
   align-items: center;
-  background-color: #2563eb;
+  background-color: #2c3e50;
   color: #fff;
   display: grid;
   font-size: 1rem;
@@ -495,7 +496,7 @@ input {
   margin-bottom: 0.75rem;
   padding: 0.875rem 1rem;
   width: 100%;
-  border-bottom: 2px solid #2563eb;
+  border-bottom: 2px solid #2c3e50;
 }
 
 .leaflet-routing-container {
@@ -712,12 +713,12 @@ input {
 }
 
 .ride-list__result-label span {
-  color: #d7df22;
+  color: #2c3e50;
   font-weight: 600;
 }
 
 .ride-list__accept-btn {
-  background: #d7df22;
+  background: #2c3e50;
   border: none;
   color: #fff;
   font-size: 0.9375rem;
@@ -760,13 +761,13 @@ input {
 }
 
 .ride-detail__user-info {
-  color: #d7df22;
+  color: #2c3e50;
   font-weight: 600;
   text-align: center;
 }
 
 .ride-detail__btn {
-  background: #d7df22;
+  background: #2c3e50;
   border: none;
   color: #fff;
   font-size: 0.9375rem;
@@ -788,7 +789,7 @@ input {
 }
 
 .ride-detail__result-label span {
-  color: #d7df22;
+  color: #2c3e50;
   font-weight: 600;
 }
 
@@ -803,7 +804,7 @@ input {
 .ride-detail__action {
   align-items: center;
   border-radius: 50%;
-  border: 1px solid #d7df22;
+  border: 1px solid #2c3e50;
   display: flex;
   height: 2.5rem;
   justify-content: center;

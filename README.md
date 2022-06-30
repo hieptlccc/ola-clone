@@ -37,18 +37,18 @@ To run the demo follow these steps:
 10. Import and inject your secret keys in the **.env** file containing your CometChat and Firebase in this manner.
 
 ```js
-REACT_APP_FIREBASE_API_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
-REACT_APP_FIREBASE_AUTH_DOMAIN = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
-REACT_APP_FIREBASE_DATABASE_URL = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_FIREBASE_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_AUTH_DOMAIN=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_FIREBASE_DATABASE_URL=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 REACT_APP_FIREBASE_STORAGE_BUCKET =
-  xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+  xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 
-REACT_APP_COMETCHAT_APP_ID = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
-REACT_APP_COMETCHAT_REGION = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
-REACT_APP_COMETCHAT_AUTH_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
-REACT_APP_COMETCHAT_API_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_COMETCHAT_APP_ID=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_COMETCHAT_REGION=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_COMETCHAT_AUTH_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
+REACT_APP_COMETCHAT_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 
-REACT_APP_MAP_BOX_API_KEY = xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx;
+REACT_APP_MAP_BOX_API_KEY=xxx - xxx - xxx - xxx - xxx - xxx - xxx - xxx
 ```
 
 11. Make sure to exclude **.env** in your gitIgnore file from being exposed online.
