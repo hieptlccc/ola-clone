@@ -624,7 +624,7 @@ input {
 }
 
 .request-ride__btn {
-  background-color: #d7df22;
+  background-color: #2c3e50;
   border: 0;
   color: #fff;
   font-size: 1rem;
@@ -641,7 +641,7 @@ input {
 
 .request-ride__change-btn {
   background-color: transparent;
-  color: #d7df22;
+  color: #2c3e50;
 }
 
 .ride-list {
